@@ -1,0 +1,16 @@
+#comment li{
+    overflow: auto;
+}
+.comleft{
+    display: block;
+    width:calc(100% - 200px);
+    float: left;
+}
+.comright{
+    width:200px;
+    display: block;
+    float: right;
+}
+#commod, #comdel{
+    border:none;
+}
